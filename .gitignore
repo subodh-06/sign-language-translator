@@ -130,20 +130,18 @@ dmypy.json
 *~
 
 # Data files
-*.csv
+# *.csv
 *.xlsx
 *.xls
 
 # Models
-*.pkl
+# *.pkl
 *.h5
 *.pt
 *.pth
-models/trained_models/
+# models/trained_models/
 
 # OS
 .DS_Store
 Thumbs.db
 
-# Project specific
-data/
